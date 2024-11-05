@@ -28,4 +28,5 @@ The project progresses through several stages, each building towards a robust cl
   * Implement callbacks and early stopping to prevent overfitting.
   * Use a learning rate scheduler to fine-tune the learning rate during training.
   * Experiment with more advanced text preprocessing techniques, such as handling abbreviations, slang, URLs, and hashtags, which could improve model performance.
-References
+## References
+[Natural Language Processing with Disaster Tweets](https://www.kaggle.com/c/nlp-getting-started/overview)

@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./nlp.png" alt="Description of image" width="300">
+</p>
+
 # NLP-Disaster-Tweets-Kaggle
 
 ## Project Overview
